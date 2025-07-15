@@ -1,0 +1,16 @@
+{
+  "command.argument.player.invalid": "The player does not exist or is not online",
+  "commands.playerpos.description": "Query the coordinates of the specified player",
+  "playerposquerytool.error.save_log_failed": "§cFailed to save the log!§r",
+  "playerposquerytool.error.allow_non_op": "Allow non-op players to use the command",
+  "playerposquerytool.command.hint.enable_op_require": "Enabled operator requirement.",
+  "playerposquerytool.command.hint.disable_op_require": "Disabled operator requirement.",
+  "playerposquerytool.command.hint.enable_broad_cast_to_ops": "Operators can see everyone's query result",
+  "playerposquerytool.command.hint.disable_broad_cast_to_ops": "Operators can't see everyone's query result",
+  "playerposquerytool.command.hint.query_op_level": "Operator access requirement: %s",
+  "playerposquerytool.command.hint.broad_cast_to_ops": "Broadcast query result to operators: %s",
+  "playerposquerytool.command.hint.disable": "§cdisable§r",
+  "playerposquerytool.command.hint.enable": "§aenable§r",
+  "playerposquerytool.command.hint.show_position": "player %s's position: %s (%s)",
+  "playerposquerytool.command.hint.copy_hint": "§eClick to copy the position§r"
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "playerposquerytool",
+	"version": "1.1.0",
+	"name": "PlayerPosQueryTool",
+	"description": "A simple mod that allows you to query the coordinates of the specified player by command. It supports querying multiple players at the same time.",
+	"authors": [
+		"wzlWilliam"
+	],
+	"contact": {
+		"homepage": "https://github.com/wzjWilliam",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/playerposquerytool/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.wzjwilliam.playerposquerytool.PlayerPosQueryTool"
+		],
+		"fabric-datagen": [
+			"com.wzjwilliam.playerposquerytool.PlayerPosQueryToolDataGenerator"
+		]
+	},
+	"mixins": [
+		"playerposquerytool.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

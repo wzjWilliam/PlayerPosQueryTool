@@ -1,0 +1,15 @@
+{
+  "command.argument.player.invalid": "玩家不存在或未在线",
+  "commands.playerpos.description": "查询玩家坐标（支持多玩家）",
+  "playerposquerytool.error.allow_non_op": "允许非op玩家使用命令",
+  "playerposquerytool.command.hint.enable_op_require": "已启用管理员权限要求。",
+  "playerposquerytool.command.hint.disable_op_require": "已禁用管理员权限要求。",
+  "playerposquerytool.command.hint.enable_broad_cast_to_ops": "管理员可以看到所有人的查询结果",
+  "playerposquerytool.command.hint.disable_broad_cast_to_ops": "管理员不能看到所有人的查询结果",
+  "playerposquerytool.command.hint.query_op_level": "管理员权限要求: %s",
+  "playerposquerytool.command.hint.broad_cast_to_ops": "将查询结果向管理员广播: %s",
+  "playerposquerytool.command.hint.disable": "§c禁用§r",
+  "playerposquerytool.command.hint.enable": "§a启用§r",
+  "playerposquerytool.command.hint.show_position": "玩家%s的坐标: %s (%s)",
+  "playerposquerytool.command.hint.copy_hint": "§e点击以复制坐标§r"
+}
