@@ -5,7 +5,7 @@
 	"name": "PlayerPosQueryTool",
 	"description": "A simple mod that allows you to query the coordinates of the specified player by command. It supports querying multiple players at the same time.",
 	"authors": [
-		"wzlWilliam"
+		"wzjWilliam"
 	],
 	"contact": {
 		"homepage": "https://github.com/wzjWilliam",
